@@ -2,5 +2,5 @@
 
 ## Face Detection - Viola Jones algorithm Haar cascade
 ## Face Recognition - Local Binary Pattern Histogram
-## mySQL - To store attendance details and Lecture time table 
+## mySQL - To store attendance details corresponding to each Lecture/Professor 
 
